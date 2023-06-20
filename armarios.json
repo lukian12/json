@@ -1,0 +1,28 @@
+{
+  "armarios": [
+    {
+      "id": "Porta 1",
+      "estado": "ocupado",
+      "caracteristicas": {
+        "cor": "azul",
+        "material": "aço"
+      }
+    },
+    {
+      "id": "Porta2",
+      "estado": "ocupado",
+      "caracteristicas": {
+        "cor": "black",
+        "material": "madeira"
+      }
+    },
+    {
+      "id": "Porta3",
+      "estado": "manutenção",
+      "caracteristicas": {
+        "cor": "amarelo",
+        "material": "plástico"
+      }
+    }
+  ]
+}

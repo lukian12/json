@@ -1,0 +1,31 @@
+.armario {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.bloco {
+  border: solid 2px;
+  width: 100px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.estado-desocupado {
+ 
+  background-color:blue;
+}
+
+.estado-ocupado {
+ 
+  background-color:black;
+}
+
+.estado-manutencao {
+ 
+  background-color: yellow;
+}
+body{
+  background-color: aquamarine;
+}
